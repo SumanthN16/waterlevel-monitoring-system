@@ -1,0 +1,6 @@
+venv
+# all except waterlevel.py and requirements and setup.md
+STCB_KA images
+STCB_KA-extracted_images
+*.xlsx
+main.py
