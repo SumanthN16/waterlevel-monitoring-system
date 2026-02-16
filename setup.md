@@ -5,7 +5,7 @@ python3.13 -m venv venv
 ./venv/Scripts/activate
 
 <!-- Install requirements -->
-pip install -r reqirements.txt
+pip install -r requirements.txt
 
 <!-- Run the code -->
 python waterlevel.py
